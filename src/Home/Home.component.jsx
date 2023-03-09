@@ -4,7 +4,7 @@ import styles from "./Home.module.styl";
 const Home = () => {
   return (
     <div>
-      <p>hola</p>
+      <img src=".../assets\spacex.jpg" alt="space-rocket" />
     </div>
   );
 };
